@@ -1,5 +1,5 @@
 [eda-readme.md](https://github.com/user-attachments/files/31261971/eda-readme.md)
-# supply-chain-eda-project
+# Supply-chain-eda-project
 Exploratory Data Analysis of FedEx logistics data to identify bottlenecks, optimize logistics processes, and improve cost and delivery efficiency.
 # Exploratory Data Analysis on FedEx Logistics Data
 
